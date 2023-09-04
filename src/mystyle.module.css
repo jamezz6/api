@@ -1,0 +1,147 @@
+.background {
+    background-color: #ffe6e2;
+}
+
+/* p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+} */
+
+/* * {
+    box-sizing: border-box;
+    background-color:#ffe6e2;
+} */
+
+.bigblue {
+    background-color: #e6e6f1;
+    width: 1300px;
+    border-style: solid;
+    border-width: thick;
+    border-color: #555555;
+    padding: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-self: center;
+    justify-self: center;
+}
+
+.bigblue2 {
+    background-color: #93ee60;
+    padding-top: 20px;
+    width: 800px;
+    height: 80px;
+    border-style: solid;
+    border-width: thick;
+    border-color: grey;
+    text-align: center;
+    text-justify: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+    align-self: center;
+    justify-self: center;
+}
+
+.bigblue3 {
+    background-color: #c6ee60;
+    width: 1300px;
+    border-style: solid;
+    border-width: thick;
+    border-color: grey;
+    padding: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-self: center;
+    justify-self: center;
+}
+
+.bigblue4 {
+    background-color: #ef6560;
+    color: white;
+    width: 1300px;
+    border-style: solid;
+    border-width: thick;
+    border-color: grey;
+    padding: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-self: center;
+    justify-self: center;
+}
+
+.bigblue5 {
+    background-color: #c6e1e1;
+    width: 1300px;
+    border-style: solid;
+    border-width: thick;
+    border-color: grey;
+    padding: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-self: center;
+    justify-self: center;
+}
+
+
+.container {
+    padding-left: 80px;
+}
+
+.container2 {
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    align-self: center;
+    justify-self: center;
+     padding-left: 630px;
+}
+
+.container3 {
+    padding-left: 350px;
+}
+
+.container4 {
+    padding-left: 80px;
+}
+
+.container5 {
+    padding-left: 80px;
+}
+
+.container6 {
+    padding-left: 80px;
+}
+
+.button {
+    color: white;
+    font-weight: 900;
+    font-size: 28px;
+    background-color: #338433;
+    border-color: darkgrey;
+    border-width: thick;
+    margin: 30px;
+}
+
+.button:hover {
+    color: orangered;
+    cursor: pointer;
+}
